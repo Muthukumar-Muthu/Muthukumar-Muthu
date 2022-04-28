@@ -4,7 +4,7 @@ Hi 👋 My name is Muthukumar M
 Web Developer
 -------------
 
-* 🌍  I'm based in TN, Indida
+* 🌍  I'm based in TN, India
 * ✉️  You can contact me at [m.m.muthu1388@gmail.com](mailto:m.m.muthu1388@gmail.com)
 * 🧠  I'm learning React
 
